@@ -1,0 +1,30 @@
+4.1 
+1 PID = Process ID
+TTY = terminal that shows the process
+TIME = execution time
+CMD = executed command
+
+2 5
+
+3 three active users: rolf (runs the process), school (writing on this account) and root
+
+4 pid 1 (init)
+
+4.2
+1 output:
+Linux
+pi.pyonium.com
+
+2 it starts one job for the two commands, it shows a pid for the job.
+
+3 it shows a PID number.
+
+4 this is done by running ping localhost, and then bg [job number]. Job numbers shows up after ctl z.
+
+5 Both run in the background. Ping still outputs to stdout.
+sleep: pid 6636, job no 1
+ping: pid 6640, job no 2
+
+6 both works
+
+

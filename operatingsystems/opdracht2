@@ -1,0 +1,50 @@
+2.1
+1. login: logs in as a user
+whoami: prints username
+passwd: changes user's password
+su: runs new session as user inside current session
+logout: logs current user logout
+
+2. login -f student
+
+3. sudo -u pietjepuk whoami
+
+4. passwd d1t15een5uperve1l1gw@chtw00rd
+
+5. done!
+
+6. exit
+
+2.2
+1. vi gisteren
+
+2. cat gisteren gisteren
+
+3. cat gisteren gisteren gisteren > gisteren3
+
+4. pgup, pgdown, G, home, /, n, q
+
+5. ping -i .2 localhost | less
+
+6. /dev/random < less
+
+7. cut: select file columns
+sort: sort lines of text file 
+head: shows first lines of text file 
+tail: shows last lines of text file 
+wc: counts words / lines / characters 
+
+8. sort -r gisteren
+
+9. cut -c -1 
+
+10. wc -l gisteren3
+
+11 head -n 5
+
+12 tail -n 3
+
+13 head -n 5 gisteren3 | tail -n 3 | wc -m
+
+2.3
+zie pi /home/school/
