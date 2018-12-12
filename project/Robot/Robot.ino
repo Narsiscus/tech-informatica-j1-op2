@@ -47,7 +47,7 @@ void usISR() {
 }
 
 void drive() {
-  //US is < 10 cm
+  //US is < 15 cm
   if (ultrasonic < US_DANGER) {
     motor1.zero();
     motor2.zero();
